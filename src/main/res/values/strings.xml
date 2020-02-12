@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="flip_coin">Flip Coin</string>
+    <string name="coin_flip">Coin Flip</string>
+    <string name="roll_d4">Roll D4</string>
+    <string name="roll_d6">Roll D6</string>
+    <string name="roll_d8">Roll D8</string>
+    <string name="roll_d10">Roll D10</string>
+    <string name="roll_d20">Roll D20</string>
+    <string name="default_blank">Default blank</string>
+</resources>
